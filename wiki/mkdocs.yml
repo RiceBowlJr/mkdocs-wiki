@@ -1,0 +1,12 @@
+site_name: Mon Wiki de test
+pages:
+  - Home: index.md
+  - About: about.md
+  - Clients:
+    - Client 1: 
+      - Site 1: Clients/client1/site1.md
+      - Site 2: Clients/client1/site2.md
+    - Client 2:
+      - Site 1: Clients/client2/site1.md
+      - Site 2: Clients/client2/site2.md
+theme: readthedocs
